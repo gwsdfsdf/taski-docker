@@ -1,3 +1,5 @@
+"""Маршруты URL для проекта."""
+
 from api import views
 from django.contrib import admin
 from django.urls import include, path
